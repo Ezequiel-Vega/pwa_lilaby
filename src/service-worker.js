@@ -6,10 +6,9 @@ const cacheName = "pwa-lilaby-v2";
 
 // URLs de los assets a guardar
 const urlsToCache = [
-  "static/css/main.860b7315.chunk.css",
-  "/static/js/main.47c86369.chunk.js",
+  "/static/js/main.24e518b6.chunk.js",
   "/static/js/2.2d228acf.chunk.js",
-  "/static/js/runtime-main.be322562.js",
+  "/static/js/runtime-main.1cbf4b4c.js",
   "/index.html",
   "/manifest.json",
 ];
