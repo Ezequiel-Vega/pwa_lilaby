@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pwa_lilaby/static/css/main.a044fcf9.chunk.css",
-    "main.js": "/pwa_lilaby/static/js/main.6b42451d.chunk.js",
-    "main.js.map": "/pwa_lilaby/static/js/main.6b42451d.chunk.js.map",
+    "main.css": "/pwa_lilaby/static/css/main.69529070.chunk.css",
+    "main.js": "/pwa_lilaby/static/js/main.09115ed7.chunk.js",
+    "main.js.map": "/pwa_lilaby/static/js/main.09115ed7.chunk.js.map",
     "runtime-main.js": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js",
     "runtime-main.js.map": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js.map",
     "static/js/2.2d228acf.chunk.js": "/pwa_lilaby/static/js/2.2d228acf.chunk.js",
@@ -10,13 +10,13 @@
     "index.html": "/pwa_lilaby/index.html",
     "service-worker.js": "/pwa_lilaby/service-worker.js",
     "service-worker.js.map": "/pwa_lilaby/service-worker.js.map",
-    "static/css/main.a044fcf9.chunk.css.map": "/pwa_lilaby/static/css/main.a044fcf9.chunk.css.map",
+    "static/css/main.69529070.chunk.css.map": "/pwa_lilaby/static/css/main.69529070.chunk.css.map",
     "static/js/2.2d228acf.chunk.js.LICENSE.txt": "/pwa_lilaby/static/js/2.2d228acf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1cbf4b4c.js",
     "static/js/2.2d228acf.chunk.js",
-    "static/css/main.a044fcf9.chunk.css",
-    "static/js/main.6b42451d.chunk.js"
+    "static/css/main.69529070.chunk.css",
+    "static/js/main.09115ed7.chunk.js"
   ]
 }
