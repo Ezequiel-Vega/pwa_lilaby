@@ -22,7 +22,7 @@ export default function Users() {
     <div>
       <h1 className="title">Get Users</h1>
       <div className="container">
-        <button className="btn btn-success btn-block" onClick={getUsers}>
+        <button className="btn btn-danger btn-block" onClick={getUsers}>
           Obtener Usuarios
         </button>{" "}
       </div>
