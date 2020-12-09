@@ -2,7 +2,7 @@ import { precacheAndRoute } from "workbox-precaching";
 
 precacheAndRoute(self.__WB_MANIFEST);
 
-const cacheName = "pwa-lilaby-v1";
+const cacheName = "pwa-lilaby-v2";
 
 // URLs de los assets a guardar
 const urlsToCache = [
@@ -28,7 +28,7 @@ self.addEventListener("install", (event) => {
 // Actualizar Cache
 self.addEventListener("activate", (event) => {
   // Actualiza y elimina los cache que no estan en la lista
-  const cacheAllowList = ["pwa-lilaby-v1"];
+  const cacheAllowList = ["pwa-lilaby-v2"];
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
