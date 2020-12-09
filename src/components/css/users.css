@@ -29,7 +29,12 @@
 
 .btn-danger {
   color: white;
-  background-color:#dc3545;
+  background-color: #dc3545;
+}
+
+.btn-success {
+  color: white;
+  background-color: #356aa6;
 }
 
 .text-center {
