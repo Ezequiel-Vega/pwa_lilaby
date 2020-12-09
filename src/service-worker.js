@@ -28,7 +28,7 @@ self.addEventListener("install", (event) => {
 // Actualizar Cache
 self.addEventListener("activate", (event) => {
   // Actualiza y elimina los cache que no estan en la lista
-  const cacheAllowList = ["pwa-lilaby-v2"];
+  const cacheAllowList = ["pwa-lilaby-v1"];
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
