@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pwa_lilaby/static/css/main.bc5ac2f9.chunk.css",
-    "main.js": "/pwa_lilaby/static/js/main.3d6ff809.chunk.js",
-    "main.js.map": "/pwa_lilaby/static/js/main.3d6ff809.chunk.js.map",
+    "main.js": "/pwa_lilaby/static/js/main.8dc99028.chunk.js",
+    "main.js.map": "/pwa_lilaby/static/js/main.8dc99028.chunk.js.map",
     "runtime-main.js": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js",
     "runtime-main.js.map": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js.map",
     "static/js/2.2d228acf.chunk.js": "/pwa_lilaby/static/js/2.2d228acf.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1cbf4b4c.js",
     "static/js/2.2d228acf.chunk.js",
     "static/css/main.bc5ac2f9.chunk.css",
-    "static/js/main.3d6ff809.chunk.js"
+    "static/js/main.8dc99028.chunk.js"
   ]
 }
