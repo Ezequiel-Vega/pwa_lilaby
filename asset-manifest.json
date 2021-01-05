@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pwa_lilaby/static/css/main.bc5ac2f9.chunk.css",
-    "main.js": "/pwa_lilaby/static/js/main.3d6ff809.chunk.js",
-    "main.js.map": "/pwa_lilaby/static/js/main.3d6ff809.chunk.js.map",
-    "runtime-main.js": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js",
-    "runtime-main.js.map": "/pwa_lilaby/static/js/runtime-main.1cbf4b4c.js.map",
-    "static/js/2.2d228acf.chunk.js": "/pwa_lilaby/static/js/2.2d228acf.chunk.js",
-    "static/js/2.2d228acf.chunk.js.map": "/pwa_lilaby/static/js/2.2d228acf.chunk.js.map",
+    "main.js": "/pwa_lilaby/static/js/main.c7826fa6.chunk.js",
+    "main.js.map": "/pwa_lilaby/static/js/main.c7826fa6.chunk.js.map",
+    "runtime-main.js": "/pwa_lilaby/static/js/runtime-main.46751537.js",
+    "runtime-main.js.map": "/pwa_lilaby/static/js/runtime-main.46751537.js.map",
+    "static/js/2.6bafde98.chunk.js": "/pwa_lilaby/static/js/2.6bafde98.chunk.js",
+    "static/js/2.6bafde98.chunk.js.map": "/pwa_lilaby/static/js/2.6bafde98.chunk.js.map",
     "index.html": "/pwa_lilaby/index.html",
     "service-worker.js": "/pwa_lilaby/service-worker.js",
     "service-worker.js.map": "/pwa_lilaby/service-worker.js.map",
     "static/css/main.bc5ac2f9.chunk.css.map": "/pwa_lilaby/static/css/main.bc5ac2f9.chunk.css.map",
-    "static/js/2.2d228acf.chunk.js.LICENSE.txt": "/pwa_lilaby/static/js/2.2d228acf.chunk.js.LICENSE.txt"
+    "static/js/2.6bafde98.chunk.js.LICENSE.txt": "/pwa_lilaby/static/js/2.6bafde98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cbf4b4c.js",
-    "static/js/2.2d228acf.chunk.js",
+    "static/js/runtime-main.46751537.js",
+    "static/js/2.6bafde98.chunk.js",
     "static/css/main.bc5ac2f9.chunk.css",
-    "static/js/main.3d6ff809.chunk.js"
+    "static/js/main.c7826fa6.chunk.js"
   ]
 }
