@@ -3,7 +3,7 @@ export default function swDev() {
     window.addEventListener("load", () => {
       let swUrl;
       if (process.env.NODE_ENV === "production") {
-        swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
+        swUrl = `${process.env.PUBLIC_URL}/service-worker_vanilla.js`;
         navigator.serviceWorker
           .register(swUrl)
           .then((res) => {
